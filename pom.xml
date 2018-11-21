@@ -12,6 +12,8 @@
   </parent>
   <name>petclinic</name>
 
+  <description>Simple spring project</description>
+
   <scm>
 		<url>https://github.com/uarlouski/spring-petclinic</url>
 		<connection>scm:git:https://github.com/uarlouski/spring-petclinic.git</connection>
