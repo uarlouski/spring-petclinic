@@ -16,7 +16,7 @@
 
   <scm>
 		<url>https://github.com/uarlouski/spring-petclinic</url>
-		<connection>scm:git:git://github.com/uarlouski/spring-petclinic.git</connection>
+		<connection>scm:git:https://github.com/uarlouski/spring-petclinic.git</connection>
 		<developerConnection>scm:git:git@github.com:uarlouski/spring-petclinic.git</developerConnection>
 	</scm>
 
